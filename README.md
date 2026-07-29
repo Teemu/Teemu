@@ -4,7 +4,7 @@ I'm Teemu, a backend software developer with a passion for Python. I also have e
 
 - 👾 Try my game: [Holiday Shuffle 2048](https://shuffle.nuudeli.com?utm_source=github)
 - 🔭 I’m currently maintaining [pytest-sugar](https://github.com/Teemu/pytest-sugar), one of my oldest open-source projects (8 years and counting!)
-- 👨‍💻 Some of my previous open-source projects include [Stellar]([fastmonkeys/stellar](https://github.com/fastmonkeys/stellar)).
+- 👨‍💻 Some of my previous open-source projects include [Stellar](https://github.com/fastmonkeys/stellar).
 - 💬 You can check out more of my projects on [my personal site](https://nuudeli.com/), including the [Tax Calculator for 🇫🇮 Finland](https://taxes.nuudeli.com/)
 - 📫 You can reach me on [Twitter](https://twitter.com/froball) or [Mastodon](https://mstdn.social/@teemu) if you have any questions or just want to connect.
 
